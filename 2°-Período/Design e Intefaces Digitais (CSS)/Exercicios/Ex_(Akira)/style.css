@@ -1,0 +1,53 @@
+/*
+1- Objetivo do site: Informar sobre a morte de "Akira Toriyama" e mostrar um pouco do seu trabalho feito, fazendo isso num tom de despedida e agradecimento.
+
+2- Cores usadas: #EBBA2D - #4B5EAB - #2D54EB - #4A516B.
+
+3- Justificativa das cores: Usei 3 tons diferentes de azul, pois entendi que o azul se encaixaria bem com o site por passar um ar de espiritualidade, gratidão e saudade. O o laranja foi a minha outra escolha para dar contraste a pagina, e por ser uma cor convidativa. O personagem mais famoso por Akira Toriyama, "Goku" usava as roupas azul e laranja, então aproivei para fazer os leitores ter uma nostalgia.
+
+4- Esquema utilizado: Complementar - Pois as cores que eu queria usar e que se encaixaria com o site era o azul, e o seu complementar é o laranja, justamente a outra cor que eu tambem estava interessado em colocar no meu site. e usei para dar um contraste maior nas partes que eu julguei mais importantes.
+*/
+
+body{
+
+    background: #4B5EAB;
+}
+
+h1{
+    color: #4A516B;
+    padding: 15px;
+    background: #EBBA2D;
+}
+
+.minha-classe{
+    color: #EBBA2D;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #4A516B;
+}
+
+a{
+    color: #EBBA2D;
+}
+
+.lista{
+    overflow: hidden;
+}
+
+.list{
+    color: #EBBA2D;
+    padding: 15px;
+    background: #2D54EB;
+    width: 20;
+}
+
+#akira{
+    color: #EBBA2D;
+    padding: 10px;
+    line-height: 1.75;
+}

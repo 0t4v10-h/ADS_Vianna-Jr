@@ -1,0 +1,23 @@
+#container > h1{
+    font-size: 24px;
+}
+
+.item{
+    color: green;
+}
+
+ul > li:first-child{
+    font-weight: bold;
+}
+
+p + p{
+    line-height: 3em;
+}
+
+#container p{
+    font-style: italic;
+}
+
+.item:hover{
+    background-color: yellow;
+}

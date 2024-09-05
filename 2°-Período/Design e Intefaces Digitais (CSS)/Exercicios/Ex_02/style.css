@@ -1,0 +1,79 @@
+*{
+    color: chocolate;
+}
+
+h1,h2,h3,h4,h5,h6.small-heading{
+    color: crimson;
+}
+
+.small-heading{
+    text-transform: uppercase;
+    color: purple;
+}
+
+#quote-by-author{
+    background: lightgray;
+    padding: 10px;
+    line-height: 1.75;
+}
+
+.list{
+    color:green;
+}
+
+#paragrafo-amarelo{
+    background: azure;
+    padding: 10px;
+}
+
+article p{
+    line-height: 2;
+}
+
+.list > li{
+    color: cornflowerblue;
+}
+
+header + p{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+header ~ img{
+    border: 4px solid aquamarine;
+}
+
+a:link{
+    color: #1D70B8;
+}
+
+a:hover{
+    color: #003078;
+}
+
+a:visited{
+    color: #4C2C92;
+}
+
+a:focus{
+    outline: solid 1px magenta;
+}
+
+article:has(p){
+    color: midnightblue;
+}
+
+header + p::first-letter{
+    color: gold;
+    font-style: italic;
+}
+
+\\ Coloca o elemento na frente da frase
+[lang="it"]::before{
+    content: "\01F1EE \01F1F9 ";
+}
+
+\\ Coloca o elemento apos a frase
+[lang="it"]::after{
+    content: "\01F1EE \01F1F9 ";
+}

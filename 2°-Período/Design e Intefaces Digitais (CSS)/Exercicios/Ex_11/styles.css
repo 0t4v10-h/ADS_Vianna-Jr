@@ -1,0 +1,111 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+
+body{
+    background-color: #f9f7f1;
+    font-family: 'PT Serif',serif;
+    color: #404040;
+    padding: 0 24px;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif; 
+    font-size: 4rem;  
+    font-weight: 700;
+    line-height: 1;
+ /* font: 700 4rem/1 'Oswald', sans-serif; */  
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2{
+    font: 3rem/0.95 'Oswald', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+}
+
+h3{
+    font: 2rem/0.95 'Oswald', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+
+time{
+    font: 700 1.5rem 'Oswald', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+
+    border-top: 3px solid #333333;
+    border-bottom: 3px solid #333333;
+
+    padding: 12px 0;
+
+    display: block;
+}
+
+time > sup{
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+blockquote{
+    font: 1.8rem/1.25 'Oswald', sans-serif;
+    margin: 1.5rem 2rem;
+}
+
+blockquote::before{
+    content: open-quote;
+}
+
+blockquote::after{
+    content: close-quote;
+}
+
+@counter-style emoji{
+    symbols: "\2615" "\1F35E" "\1F9C0";
+    system: cyclic;
+    suffix: " ";
+}
+
+article ul{
+    list-style: emoji;
+}
+
+img{
+    filter: grayscale(100%);
+}
+
+figure{
+    margin-bottom: 0 0 12px 0;
+    text-align: center;
+}
+
+figcaption{
+    font-family: 'Oswald', sans-serif;
+}
+
+@media (min-width: 955px){
+    article{
+        column-count: 3;
+        column-rule: 2px solid #333333;
+        column-gap: 42px;
+        margin-top: 36px;
+    }
+
+    blockquote{
+        column-span: all;
+    }
+
+    figure{
+        break-inside: after;
+    }
+
+    p{
+        text-align: justify;
+        hyphens: auto;
+    }
+}

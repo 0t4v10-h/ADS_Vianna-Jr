@@ -1,0 +1,38 @@
+.cabecalho{
+    background-color: #F48E3B;
+    /* grid-column: 1 / 3; Usado para ajustes curtos. */ 
+    grid-area: cabecalho; 
+}
+
+.lateral{
+    background-color: #00B3D3;
+    grid-area: lateral; 
+}
+
+.principal{
+    background-color: #00BFBD;
+    grid-area: principal;
+}
+
+.rodape{
+    background-color: #025E6F;
+    /* grid-column: 1 / 3; */
+    grid-area: rodape;
+}
+
+.pagina{
+    display: grid;
+    grid-template: 
+    "cabecalho cabecalho" 145px
+    "lateral principal" 335px
+    "rodape rodape" 145px / 1fr 2fr;
+
+    /*   ou
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 145px 335px 145px;
+    grid-template-areas: 
+    "cabecalho cabecalho"
+    "lateral principal"
+    "rodape rodape"; */
+}

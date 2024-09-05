@@ -1,0 +1,23 @@
+h1{
+    color: orangered;
+    padding: 15px;
+    background: darkblue;
+}
+
+.minha-classe{
+    color: darkslategray;
+
+}
+
+.list{
+    color: darkblue;
+    border: 5px;
+    background: orangered;
+}
+
+#akira{
+    color: orangered;
+    background: darkblue;
+    padding: 10px;
+    line-height: 1.75;
+}
