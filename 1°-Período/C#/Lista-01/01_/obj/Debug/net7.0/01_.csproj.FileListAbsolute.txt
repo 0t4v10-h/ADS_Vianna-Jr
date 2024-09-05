@@ -1,0 +1,15 @@
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\obj\Debug\net7.0\01_.csproj.AssemblyReference.cache
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\obj\Debug\net7.0\01_.GeneratedMSBuildEditorConfig.editorconfig
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\obj\Debug\net7.0\01_.AssemblyInfoInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\obj\Debug\net7.0\01_.AssemblyInfo.cs
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\obj\Debug\net7.0\01_.csproj.CoreCompileInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\bin\Debug\net7.0\01_.exe
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\bin\Debug\net7.0\01_.deps.json
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\bin\Debug\net7.0\01_.runtimeconfig.json
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\bin\Debug\net7.0\01_.dll
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\bin\Debug\net7.0\01_.pdb
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\obj\Debug\net7.0\01_.dll
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\obj\Debug\net7.0\refint\01_.dll
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\obj\Debug\net7.0\01_.pdb
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\obj\Debug\net7.0\01_.genruntimeconfig.cache
+E:\Otávio\Otavio Vianna JR\C#\aleatorio_01\Exercicios_casa\01_\obj\Debug\net7.0\ref\01_.dll
