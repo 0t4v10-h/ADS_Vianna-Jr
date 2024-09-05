@@ -1,0 +1,14 @@
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\bin\Debug\net8.0\Exe_01.exe
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\bin\Debug\net8.0\Exe_01.deps.json
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\bin\Debug\net8.0\Exe_01.runtimeconfig.json
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\bin\Debug\net8.0\Exe_01.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\bin\Debug\net8.0\Exe_01.pdb
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\obj\Debug\net8.0\Exe_01.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\obj\Debug\net8.0\Exe_01.AssemblyInfoInputs.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\obj\Debug\net8.0\Exe_01.AssemblyInfo.cs
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\obj\Debug\net8.0\Exe_01.csproj.CoreCompileInputs.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\obj\Debug\net8.0\Exe_01.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\obj\Debug\net8.0\refint\Exe_01.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\obj\Debug\net8.0\Exe_01.pdb
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\obj\Debug\net8.0\Exe_01.genruntimeconfig.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_02\Exe_01\obj\Debug\net8.0\ref\Exe_01.dll
