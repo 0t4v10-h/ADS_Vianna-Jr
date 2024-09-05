@@ -1,0 +1,32 @@
+A minha página da Pokédex utiliza um esquema de cores monocromático em tons de azul, que é harmonioso. As escolhas de tipografia e layout ajudam a manter a página divertida e fácil de navegar, enquanto a composição equilibrada e o espaçamento adequado garantem uma experiência de usuário agradável. O design foi pensado para destacar as informações mais importantes, como a imagem do Pokémon e seus detalhes, criando uma página que é ao mesmo tempo informativa e visualmente atraente.
+Explicarei melhor a baixo: 
+
+
+Paleta de Cores -
+
+Azul: Meu site é monocromatico com as cores principais da página nos tons de azul, que são associados a harmonia, elegancia. Essas cores combinam bem com o tema Pokémon, ja que azul é uma cor que transmite tranquilidade e confiança que é bom para uma pagina informativa como uma Pokédex.
+O fundo azul num tom mais escuro com estrelas destaca o conteúdo principal da página, e ajuda a criar um visual agradável e fácil de ler.
+
+
+Tipografia -
+
+Pokemon Hollow e Comic Neue para Titulo e Cabeçalho: Escolhi fontes mais lúdicas e amigáveis para refletir o tema divertido e amigazel de Pokémon. Dando um tom mais descontraído e alegre à página.
+Arial para Texto Principal: Uma fonte simples e legível usada para o corpo do texto para garantir que as informações sejam facilmente compreensíveis.
+
+
+Layout -
+
+Centro da Página: O layout centralizado garante que o Pokémon em destaque receba toda a atenção. Isso facilita a navegação e mantém o foco do usuário nas informações principais.
+Navegação Simples: Os botões "Anterior" e "Próximo" são claramente visíveis e fáceis de usar, ajudando o usuário a navegar pelo site de maneira intuitiva.
+
+
+Composição -
+
+Equilíbrio Visual: A página é organizada de forma equilibrada, com a imagem do Pokémon e as informações distribuídas de maneira que não sobrecarregam o usuário.
+Espaçamento: Há um bom uso de espaços entre os elementos, o que torna a página mais limpa e agradável de usar.
+
+
+Ênfase da Página -
+
+Imagem do Pokémon: A imagem do Pokémon é o elemento mais destacado na página, atraindo a atenção do usuário.
+Informações Relevantes: O nome do Pokémon e seus tipos são apresentados de maneira clara e fácil de encontrar, fornecendo as informações mais importantes de forma rápida.
