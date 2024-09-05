@@ -1,0 +1,14 @@
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\bin\Debug\net8.0\Listas_Contigua.exe
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\bin\Debug\net8.0\Listas_Contigua.deps.json
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\bin\Debug\net8.0\Listas_Contigua.runtimeconfig.json
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\bin\Debug\net8.0\Listas_Contigua.dll
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\bin\Debug\net8.0\Listas_Contigua.pdb
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\obj\Debug\net8.0\Listas_Contigua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\obj\Debug\net8.0\Listas_Contigua.AssemblyInfoInputs.cache
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\obj\Debug\net8.0\Listas_Contigua.AssemblyInfo.cs
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\obj\Debug\net8.0\Listas_Contigua.csproj.CoreCompileInputs.cache
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\obj\Debug\net8.0\Listas_Contigua.dll
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\obj\Debug\net8.0\refint\Listas_Contigua.dll
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\obj\Debug\net8.0\Listas_Contigua.pdb
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\obj\Debug\net8.0\Listas_Contigua.genruntimeconfig.cache
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_07\Listas_Contigua\obj\Debug\net8.0\ref\Listas_Contigua.dll
