@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Estado
+comment1.params=sigla\ misEstado\ vencedora
+comment1.target=Estado(java.lang.String,\ MisBrasil,\ Candidata)
+comment10.params=cand
+comment10.target=void\ addCandidata(Candidata)
+comment2.params=
+comment2.target=double\ valorInscricao()
+comment3.params=
+comment3.target=java.lang.String\ getSigla()
+comment4.params=sigla
+comment4.target=void\ setSigla(java.lang.String)
+comment5.params=
+comment5.target=MisBrasil\ getMisEstado()
+comment6.params=misEstado
+comment6.target=void\ setMisEstado(MisBrasil)
+comment7.params=
+comment7.target=Candidata\ getVencedora()
+comment8.params=vencedora
+comment8.target=void\ setVencedora(Candidata)
+comment9.params=
+comment9.target=java.util.ArrayList\ getCandidata()
+numComments=11

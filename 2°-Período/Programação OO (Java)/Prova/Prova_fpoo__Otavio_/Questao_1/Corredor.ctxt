@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Corredor
+comment1.params=nome
+comment1.target=Corredor(java.lang.String)
+comment2.params=
+comment2.target=double\ velMedia()
+comment3.params=
+comment3.target=int\ maisRapida()
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=
+comment6.target=java.util.ArrayList\ getCorrida()
+comment7.params=crd
+comment7.target=void\ addCorrida(Corrida)
+numComments=8
