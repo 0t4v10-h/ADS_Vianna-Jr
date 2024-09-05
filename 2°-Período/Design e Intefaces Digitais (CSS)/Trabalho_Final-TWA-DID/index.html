@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokédex</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="img/icon.png">
+</head>
+<body>
+    <nav>
+        <img class="logo" src="img/logo.png">
+        <ul class="menu">
+            <button type="button" id="explorar">Explorar</button>
+            <button type="button" id="midia">Mídia</button>
+            <button type="button" id="sobre">Sobre</button>
+            <button type="button" id="voltarInicio" class="hidden">Voltar ao Início</button>
+        </ul>
+        <form id="pokeForm">
+            <input type="text" id="pokemon" placeholder="Nome ou N° do Pokémon">
+            <button type="submit">Buscar</button>
+        </form>
+    </nav>
+    <main>
+        <header>
+            <h1>Pokédex</h1>
+        </header>
+        <section id="pokedex-section">
+            <h2 class="subtitulo">Bem vindo ao mundo Pokemon!</h2>
+            <div class="conteudo" id="conteudo">
+                <div class="pokemon">
+                    <p id="num"></p>
+                    <p class="name">Nome: </p>
+                    <p class="name" id="name"></p>
+                </div>
+                <div class="img">
+                    <img src="" alt="" id="sprite">
+                </div>
+                <div class="tipos">
+                    <p>Tipos:</p>
+                    <ul id="types"></ul>
+                </div>
+            </div>
+            <div id="pokeResult"></div>
+            <div class="botoes">
+                <button id="anterior">Anterior</button>
+                <button id="proximo">Próximo</button>
+            </div>
+            <div id="erro"></div>
+            <div id="loading" class="loading"></div>
+        </section>
+        <section id="explorar-section" class="hidden">
+            <h2>Explorar o mundo Pokémon</h2>
+            <p>Conteúdo de exploração...</p>
+        </section>
+        <section id="midia-section" class="hidden">
+            <h2>Mídia Pokémon</h2>
+            <p>Conteúdo de mídia...</p>
+        </section>
+        <section id="sobre-section" class="hidden">
+            <h2>Sobre o Projeto</h2>
+            <p>Conteúdo sobre o projeto...</p>
+        </section>
+        <footer>
+            <p>@ 2024 Otávio Henrique</p>
+        </footer>
+        <script src="script.js" type="module"></script>
+    </main>
+</body>
+</html>
