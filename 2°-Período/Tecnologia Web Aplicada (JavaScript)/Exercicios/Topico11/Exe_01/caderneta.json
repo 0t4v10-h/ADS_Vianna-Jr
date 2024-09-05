@@ -1,0 +1,31 @@
+{
+    "Caderneta":[
+        {
+            "nome": "Zé Bunda",
+            "endereco": {
+                "nome da rua": "Bunda da Silva",
+                "numero": 49,
+                "cep": "135-79"
+            },
+            "telefone": "0192837465"
+        },
+        {
+            "nome": "Zé Cu",
+            "endereco": {
+                "nome da rua": "Butaozinho",
+                "numero": 0,
+                "cep": "123-45"
+            },
+            "telefone": "0987654321"
+        },
+        {
+            "nome": "Zé Ruela",
+            "endereco": {
+                "nome da rua": "Dacueba",
+                "numero": 99,
+                "cep": "098-76"
+            },
+            "telefone": "1234567890"
+        }
+    ]
+}

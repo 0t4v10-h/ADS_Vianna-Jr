@@ -1,0 +1,15 @@
+{
+  "name": "topico12",
+  "version": "1.0.0",
+  "description": "Exercicio em sala sobre npm - Este é um arquivo de configuração",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Otavio Henrique",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
