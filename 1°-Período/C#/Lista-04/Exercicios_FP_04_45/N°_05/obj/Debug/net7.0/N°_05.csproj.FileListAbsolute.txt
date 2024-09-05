@@ -1,0 +1,15 @@
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\bin\Debug\net7.0\N°_05.exe
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\bin\Debug\net7.0\N°_05.deps.json
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\bin\Debug\net7.0\N°_05.runtimeconfig.json
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\bin\Debug\net7.0\N°_05.dll
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\bin\Debug\net7.0\N°_05.pdb
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\obj\Debug\net7.0\N°_05.csproj.AssemblyReference.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\obj\Debug\net7.0\N°_05.GeneratedMSBuildEditorConfig.editorconfig
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\obj\Debug\net7.0\N°_05.AssemblyInfoInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\obj\Debug\net7.0\N°_05.AssemblyInfo.cs
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\obj\Debug\net7.0\N°_05.csproj.CoreCompileInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\obj\Debug\net7.0\N°_05.dll
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\obj\Debug\net7.0\refint\N°_05.dll
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\obj\Debug\net7.0\N°_05.pdb
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\obj\Debug\net7.0\N°_05.genruntimeconfig.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_04_45\N°_05\obj\Debug\net7.0\ref\N°_05.dll
