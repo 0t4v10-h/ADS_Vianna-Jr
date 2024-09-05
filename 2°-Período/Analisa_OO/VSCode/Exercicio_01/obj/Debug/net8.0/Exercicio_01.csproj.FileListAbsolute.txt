@@ -1,0 +1,14 @@
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\bin\Debug\net8.0\Exercicio_01.exe
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\bin\Debug\net8.0\Exercicio_01.deps.json
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\bin\Debug\net8.0\Exercicio_01.runtimeconfig.json
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\bin\Debug\net8.0\Exercicio_01.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\bin\Debug\net8.0\Exercicio_01.pdb
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\obj\Debug\net8.0\Exercicio_01.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\obj\Debug\net8.0\Exercicio_01.AssemblyInfoInputs.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\obj\Debug\net8.0\Exercicio_01.AssemblyInfo.cs
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\obj\Debug\net8.0\Exercicio_01.csproj.CoreCompileInputs.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\obj\Debug\net8.0\Exercicio_01.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\obj\Debug\net8.0\refint\Exercicio_01.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\obj\Debug\net8.0\Exercicio_01.pdb
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\obj\Debug\net8.0\Exercicio_01.genruntimeconfig.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Analise_OO\Exercicios_sala_de_aula\Exercicio_01\obj\Debug\net8.0\ref\Exercicio_01.dll
