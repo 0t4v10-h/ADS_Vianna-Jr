@@ -1,0 +1,14 @@
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\obj\Debug\net8.0\Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\obj\Debug\net8.0\Trabalho.AssemblyInfoInputs.cache
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\obj\Debug\net8.0\Trabalho.AssemblyInfo.cs
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\obj\Debug\net8.0\Trabalho.csproj.CoreCompileInputs.cache
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\bin\Debug\net8.0\Trabalho.exe
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\bin\Debug\net8.0\Trabalho.deps.json
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\bin\Debug\net8.0\Trabalho.runtimeconfig.json
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\bin\Debug\net8.0\Trabalho.dll
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\bin\Debug\net8.0\Trabalho.pdb
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\obj\Debug\net8.0\Trabalho.dll
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\obj\Debug\net8.0\refint\Trabalho.dll
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\obj\Debug\net8.0\Trabalho.pdb
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\obj\Debug\net8.0\Trabalho.genruntimeconfig.cache
+D:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Trabalho\obj\Debug\net8.0\ref\Trabalho.dll
