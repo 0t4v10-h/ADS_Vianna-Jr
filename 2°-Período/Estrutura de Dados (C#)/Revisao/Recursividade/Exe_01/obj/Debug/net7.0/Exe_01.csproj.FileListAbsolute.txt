@@ -1,0 +1,14 @@
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\obj\Debug\net7.0\Exe_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\obj\Debug\net7.0\Exe_01.AssemblyInfoInputs.cache
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\obj\Debug\net7.0\Exe_01.AssemblyInfo.cs
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\obj\Debug\net7.0\Exe_01.csproj.CoreCompileInputs.cache
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\bin\Debug\net7.0\Exe_01.exe
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\bin\Debug\net7.0\Exe_01.deps.json
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\bin\Debug\net7.0\Exe_01.runtimeconfig.json
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\bin\Debug\net7.0\Exe_01.dll
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\bin\Debug\net7.0\Exe_01.pdb
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\obj\Debug\net7.0\Exe_01.dll
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\obj\Debug\net7.0\refint\Exe_01.dll
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\obj\Debug\net7.0\Exe_01.pdb
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\obj\Debug\net7.0\Exe_01.genruntimeconfig.cache
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Revisao\Recursividade\Exe_01\obj\Debug\net7.0\ref\Exe_01.dll
