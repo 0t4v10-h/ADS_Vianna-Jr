@@ -1,0 +1,14 @@
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\bin\Debug\net7.0\Diagonal_secundaria.exe
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\bin\Debug\net7.0\Diagonal_secundaria.deps.json
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\bin\Debug\net7.0\Diagonal_secundaria.runtimeconfig.json
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\bin\Debug\net7.0\Diagonal_secundaria.dll
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\bin\Debug\net7.0\Diagonal_secundaria.pdb
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\obj\Debug\net7.0\Diagonal_secundaria.GeneratedMSBuildEditorConfig.editorconfig
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\obj\Debug\net7.0\Diagonal_secundaria.AssemblyInfoInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\obj\Debug\net7.0\Diagonal_secundaria.AssemblyInfo.cs
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\obj\Debug\net7.0\Diagonal_secundaria.csproj.CoreCompileInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\obj\Debug\net7.0\Diagonal_secundaria.dll
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\obj\Debug\net7.0\refint\Diagonal_secundaria.dll
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\obj\Debug\net7.0\Diagonal_secundaria.pdb
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\obj\Debug\net7.0\Diagonal_secundaria.genruntimeconfig.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_secundaria\obj\Debug\net7.0\ref\Diagonal_secundaria.dll

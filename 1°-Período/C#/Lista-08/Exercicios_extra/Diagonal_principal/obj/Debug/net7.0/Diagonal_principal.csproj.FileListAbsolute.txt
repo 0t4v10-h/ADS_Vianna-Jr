@@ -1,0 +1,14 @@
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\bin\Debug\net7.0\Diagonal_principal.exe
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\bin\Debug\net7.0\Diagonal_principal.deps.json
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\bin\Debug\net7.0\Diagonal_principal.runtimeconfig.json
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\bin\Debug\net7.0\Diagonal_principal.dll
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\bin\Debug\net7.0\Diagonal_principal.pdb
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\obj\Debug\net7.0\Diagonal_principal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\obj\Debug\net7.0\Diagonal_principal.AssemblyInfoInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\obj\Debug\net7.0\Diagonal_principal.AssemblyInfo.cs
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\obj\Debug\net7.0\Diagonal_principal.csproj.CoreCompileInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\obj\Debug\net7.0\Diagonal_principal.dll
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\obj\Debug\net7.0\refint\Diagonal_principal.dll
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\obj\Debug\net7.0\Diagonal_principal.pdb
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\obj\Debug\net7.0\Diagonal_principal.genruntimeconfig.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\FP_08\Exercicios_extra\Diagonal_principal\obj\Debug\net7.0\ref\Diagonal_principal.dll
