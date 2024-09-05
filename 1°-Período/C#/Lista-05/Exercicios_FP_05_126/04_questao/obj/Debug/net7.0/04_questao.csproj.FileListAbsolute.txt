@@ -1,0 +1,14 @@
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\obj\Debug\net7.0\04_questao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\obj\Debug\net7.0\04_questao.AssemblyInfoInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\obj\Debug\net7.0\04_questao.AssemblyInfo.cs
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\obj\Debug\net7.0\04_questao.csproj.CoreCompileInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\bin\Debug\net7.0\04_questao.exe
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\bin\Debug\net7.0\04_questao.deps.json
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\bin\Debug\net7.0\04_questao.runtimeconfig.json
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\bin\Debug\net7.0\04_questao.dll
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\bin\Debug\net7.0\04_questao.pdb
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\obj\Debug\net7.0\04_questao.dll
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\obj\Debug\net7.0\refint\04_questao.dll
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\obj\Debug\net7.0\04_questao.pdb
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\obj\Debug\net7.0\04_questao.genruntimeconfig.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_05_126\04_questao\obj\Debug\net7.0\ref\04_questao.dll
