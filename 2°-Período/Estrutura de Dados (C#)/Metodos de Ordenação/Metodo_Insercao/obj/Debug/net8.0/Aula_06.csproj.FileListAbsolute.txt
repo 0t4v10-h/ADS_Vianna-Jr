@@ -1,0 +1,14 @@
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\bin\Debug\net8.0\Aula_06.exe
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\bin\Debug\net8.0\Aula_06.deps.json
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\bin\Debug\net8.0\Aula_06.runtimeconfig.json
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\bin\Debug\net8.0\Aula_06.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\bin\Debug\net8.0\Aula_06.pdb
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\obj\Debug\net8.0\Aula_06.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\obj\Debug\net8.0\Aula_06.AssemblyInfoInputs.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\obj\Debug\net8.0\Aula_06.AssemblyInfo.cs
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\obj\Debug\net8.0\Aula_06.csproj.CoreCompileInputs.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\obj\Debug\net8.0\Aula_06.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\obj\Debug\net8.0\refint\Aula_06.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\obj\Debug\net8.0\Aula_06.pdb
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\obj\Debug\net8.0\Aula_06.genruntimeconfig.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\obj\Debug\net8.0\ref\Aula_06.dll

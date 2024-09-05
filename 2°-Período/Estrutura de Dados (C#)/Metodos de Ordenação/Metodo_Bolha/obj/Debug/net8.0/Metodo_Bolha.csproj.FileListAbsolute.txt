@@ -1,0 +1,14 @@
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\bin\Debug\net8.0\Metodo_Bolha.exe
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\bin\Debug\net8.0\Metodo_Bolha.deps.json
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\bin\Debug\net8.0\Metodo_Bolha.runtimeconfig.json
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\bin\Debug\net8.0\Metodo_Bolha.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\bin\Debug\net8.0\Metodo_Bolha.pdb
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\obj\Debug\net8.0\Metodo_Bolha.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\obj\Debug\net8.0\Metodo_Bolha.AssemblyInfoInputs.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\obj\Debug\net8.0\Metodo_Bolha.AssemblyInfo.cs
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\obj\Debug\net8.0\Metodo_Bolha.csproj.CoreCompileInputs.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\obj\Debug\net8.0\Metodo_Bolha.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\obj\Debug\net8.0\refint\Metodo_Bolha.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\obj\Debug\net8.0\Metodo_Bolha.pdb
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\obj\Debug\net8.0\Metodo_Bolha.genruntimeconfig.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Bolha\obj\Debug\net8.0\ref\Metodo_Bolha.dll

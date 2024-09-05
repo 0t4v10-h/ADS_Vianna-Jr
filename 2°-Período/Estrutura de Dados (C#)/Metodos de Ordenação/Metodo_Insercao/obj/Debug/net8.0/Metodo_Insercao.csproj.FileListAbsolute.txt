@@ -1,0 +1,14 @@
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\bin\Debug\net8.0\Metodo_Insercao.exe
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\bin\Debug\net8.0\Metodo_Insercao.deps.json
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\bin\Debug\net8.0\Metodo_Insercao.runtimeconfig.json
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\bin\Debug\net8.0\Metodo_Insercao.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\bin\Debug\net8.0\Metodo_Insercao.pdb
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\obj\Debug\net8.0\Metodo_Insercao.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\obj\Debug\net8.0\Metodo_Insercao.AssemblyInfoInputs.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\obj\Debug\net8.0\Metodo_Insercao.AssemblyInfo.cs
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\obj\Debug\net8.0\Metodo_Insercao.csproj.CoreCompileInputs.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\obj\Debug\net8.0\Metodo_Insercao.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\obj\Debug\net8.0\refint\Metodo_Insercao.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\obj\Debug\net8.0\Metodo_Insercao.pdb
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\obj\Debug\net8.0\Metodo_Insercao.genruntimeconfig.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Insercao\obj\Debug\net8.0\ref\Metodo_Insercao.dll

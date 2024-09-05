@@ -1,0 +1,14 @@
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\obj\Debug\net8.0\Metodo_Selecao.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\obj\Debug\net8.0\Metodo_Selecao.AssemblyInfoInputs.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\obj\Debug\net8.0\Metodo_Selecao.AssemblyInfo.cs
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\obj\Debug\net8.0\Metodo_Selecao.csproj.CoreCompileInputs.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\bin\Debug\net8.0\Metodo_Selecao.exe
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\bin\Debug\net8.0\Metodo_Selecao.deps.json
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\bin\Debug\net8.0\Metodo_Selecao.runtimeconfig.json
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\bin\Debug\net8.0\Metodo_Selecao.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\bin\Debug\net8.0\Metodo_Selecao.pdb
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\obj\Debug\net8.0\Metodo_Selecao.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\obj\Debug\net8.0\refint\Metodo_Selecao.dll
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\obj\Debug\net8.0\Metodo_Selecao.pdb
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\obj\Debug\net8.0\Metodo_Selecao.genruntimeconfig.cache
+G:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Aula_06\Metodo_Selecao\obj\Debug\net8.0\ref\Metodo_Selecao.dll
