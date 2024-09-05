@@ -1,0 +1,14 @@
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\bin\Debug\net7.0\FP_041_01.exe
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\bin\Debug\net7.0\FP_041_01.deps.json
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\bin\Debug\net7.0\FP_041_01.runtimeconfig.json
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\bin\Debug\net7.0\FP_041_01.dll
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\bin\Debug\net7.0\FP_041_01.pdb
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\obj\Debug\net7.0\FP_041_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\obj\Debug\net7.0\FP_041_01.AssemblyInfoInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\obj\Debug\net7.0\FP_041_01.AssemblyInfo.cs
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\obj\Debug\net7.0\FP_041_01.csproj.CoreCompileInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\obj\Debug\net7.0\FP_041_01.dll
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\obj\Debug\net7.0\refint\FP_041_01.dll
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\obj\Debug\net7.0\FP_041_01.pdb
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\obj\Debug\net7.0\FP_041_01.genruntimeconfig.cache
+E:\Otávio\Otavio Vianna JR\C#\FP_041_01\obj\Debug\net7.0\ref\FP_041_01.dll
