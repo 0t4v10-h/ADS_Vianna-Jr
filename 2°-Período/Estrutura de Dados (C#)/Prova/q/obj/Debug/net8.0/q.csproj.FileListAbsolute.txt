@@ -1,0 +1,28 @@
+D:/q/bin/Debug/net8.0/q.exe
+D:/q/bin/Debug/net8.0/q.deps.json
+D:/q/bin/Debug/net8.0/q.runtimeconfig.json
+D:/q/bin/Debug/net8.0/q.dll
+D:/q/bin/Debug/net8.0/q.pdb
+D:/q/obj/Debug/net8.0/q.GeneratedMSBuildEditorConfig.editorconfig
+D:/q/obj/Debug/net8.0/q.AssemblyInfoInputs.cache
+D:/q/obj/Debug/net8.0/q.AssemblyInfo.cs
+D:/q/obj/Debug/net8.0/q.csproj.CoreCompileInputs.cache
+D:/q/obj/Debug/net8.0/q.dll
+D:/q/obj/Debug/net8.0/refint/q.dll
+D:/q/obj/Debug/net8.0/q.pdb
+D:/q/obj/Debug/net8.0/q.genruntimeconfig.cache
+D:/q/obj/Debug/net8.0/ref/q.dll
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/bin/Debug/net8.0/q
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/bin/Debug/net8.0/q.deps.json
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/bin/Debug/net8.0/q.runtimeconfig.json
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/bin/Debug/net8.0/q.dll
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/bin/Debug/net8.0/q.pdb
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/obj/Debug/net8.0/q.GeneratedMSBuildEditorConfig.editorconfig
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/obj/Debug/net8.0/q.AssemblyInfoInputs.cache
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/obj/Debug/net8.0/q.AssemblyInfo.cs
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/obj/Debug/net8.0/q.csproj.CoreCompileInputs.cache
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/obj/Debug/net8.0/q.dll
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/obj/Debug/net8.0/refint/q.dll
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/obj/Debug/net8.0/q.pdb
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/obj/Debug/net8.0/q.genruntimeconfig.cache
+/media/aluno/OTAVIO/Otávio/Otavio Vianna JR/2°_Periodo/Estrutura_de_Dados/Prova/q/obj/Debug/net8.0/ref/q.dll
