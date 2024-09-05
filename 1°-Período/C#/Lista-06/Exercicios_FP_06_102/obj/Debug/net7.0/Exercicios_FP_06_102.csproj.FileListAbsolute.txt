@@ -1,0 +1,5 @@
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_06_102\obj\Debug\net7.0\Exercicios_FP_06_102.csproj.AssemblyReference.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_06_102\obj\Debug\net7.0\Exercicios_FP_06_102.GeneratedMSBuildEditorConfig.editorconfig
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_06_102\obj\Debug\net7.0\Exercicios_FP_06_102.AssemblyInfoInputs.cache
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_06_102\obj\Debug\net7.0\Exercicios_FP_06_102.AssemblyInfo.cs
+E:\Otávio\Otavio Vianna JR\C#\EXERCICIOS\Exercicios_FP_06_102\obj\Debug\net7.0\Exercicios_FP_06_102.csproj.CoreCompileInputs.cache
