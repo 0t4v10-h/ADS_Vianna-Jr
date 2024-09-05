@@ -1,0 +1,14 @@
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\obj\Debug\net7.0\Exercicio_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\obj\Debug\net7.0\Exercicio_01.AssemblyInfoInputs.cache
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\obj\Debug\net7.0\Exercicio_01.AssemblyInfo.cs
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\obj\Debug\net7.0\Exercicio_01.csproj.CoreCompileInputs.cache
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\bin\Debug\net7.0\Exercicio_01.exe
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\bin\Debug\net7.0\Exercicio_01.deps.json
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\bin\Debug\net7.0\Exercicio_01.runtimeconfig.json
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\bin\Debug\net7.0\Exercicio_01.dll
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\bin\Debug\net7.0\Exercicio_01.pdb
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\obj\Debug\net7.0\Exercicio_01.dll
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\obj\Debug\net7.0\refint\Exercicio_01.dll
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\obj\Debug\net7.0\Exercicio_01.pdb
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\obj\Debug\net7.0\Exercicio_01.genruntimeconfig.cache
+E:\Otávio\Otavio Vianna JR\2°_Periodo\Estrutura_de_Dados\Lista_exercicio\Exercicio_01\obj\Debug\net7.0\ref\Exercicio_01.dll
