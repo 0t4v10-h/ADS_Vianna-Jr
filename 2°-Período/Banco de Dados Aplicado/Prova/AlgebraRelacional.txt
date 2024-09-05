@@ -1,0 +1,6 @@
+ π, σ, ⋈ e ×
+
+π paciente.nome (σ hospital.nome = 'HOSPITAL MONTE SINAI' 
+( paciente⋈ paciente.cpf = diagnostico.cpf diagnostico⋈ diagnostico.crm = medico.crm
+medico⋈ medico.crm = medico_hospital.crm medico_hospital⋈ medico_hospital.cnpj = hospital.cnpj
+hospital))

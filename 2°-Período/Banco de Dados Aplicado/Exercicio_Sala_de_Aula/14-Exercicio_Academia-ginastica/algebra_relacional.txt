@@ -1,0 +1,5 @@
+ π, σ, ⋈ e x  
+
+1.1)  πaluno.nome, sobrenome(σatividade.nome-'Yoga'(aluno⋈aluno.numMatricula = 
+numMatricula matricula⋈matricula.turma_idturma + turma.idturma turma⋈atividade.idatividade = turma.atividade_idatividade atividade)
+
