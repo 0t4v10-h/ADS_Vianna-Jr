@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>Formularios</title>
+    </head>
+    <body text="white" bgcolor="#1FA5C8">
+        <h1>Formulário de contato</h1>
+        <h2>Por favor, preencha as informações abaixo:</h2>
+        <form action="#" method="get">
+
+            <label><font size="5">  Nome:<font color="black">*</font></font></label>
+            <input type="text" name="nome" required placeholder="Primeiro Nome" autofocus>
+            <input type="text" name="sobrenome" required placeholder="sobrenome">
+            <br><br>
+
+            <label><font size="5">  Email :  </font></label>
+            <input type="email" name="email" autofocus size="48">
+            <br><br>
+
+            <label><font size="5"> Telefone:</font></label>
+            <input type="number" name="ddi" ploaceholder="###">
+            <input type="number" name="ddd" ploaceholder="###">
+            <input type="number" name="numero" ploaceholder="###">
+            <br><br>
+
+            <label><font size="5">Assunto: </font></label>
+            <select>
+                <option>Sugestão</option>
+                <option>Elogio</option>
+                <option>Reclamação</option>
+            </select>
+            <br><br>
+
+            <label><font size="5">Mensagem:</font></label><br>
+            <textarea rows="10" cols="70" placeholder="Sua mensagem..."></textarea>
+            <br><br>
+
+            <input type="submit">     <input type="reset">
+        </form>
+    </body>
+</html>
